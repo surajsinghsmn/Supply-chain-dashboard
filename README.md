@@ -61,4 +61,7 @@ Source: CSV data (company order & supply chain dataset)
 
 Includes: order value, shipping cost, shipping time, product subcategory, region, and customer segment.
 
+Dashboard Preview: 
+
+https://github.com/surajsinghsmn/Supply-chain-dashboard/blob/main/supplychaindashboard.jpeg
 
