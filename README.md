@@ -65,5 +65,5 @@ Dashboard Preview:
 ![inventory analysis](https://github.com/user-attachments/assets/ac001086-6230-444a-8ba9-f2737d50e758)
 
 
-https://github.com/surajsinghsmn/Supply-chain-dashboard/blob/main/supplychaindashboard.jpeg
+
 
